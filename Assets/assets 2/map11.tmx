@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="90" height="7" tilewidth="64" tileheight="64" nextobjectid="417">
+ <tileset firstgid="1" name="background" tilewidth="64" tileheight="64" tilecount="84" columns="12">
+  <image source="background.png" width="800" height="480"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="90" height="7">
+  <data encoding="base64" compression="zlib">
+   eJztwQEJAAAAAqD6f7ofoTYAADwYE7AAAg==
+  </data>
+ </layer>
+ <objectgroup name="floor">
+  <object id="332" x="0" y="420" width="5785" height="25"/>
+  <object id="391" x="1087.88" y="321.212" width="318.182" height="24.2424"/>
+  <object id="392" x="4690.91" y="324.242" width="378.788" height="15.1515"/>
+ </objectgroup>
+ <objectgroup name="ladder"/>
+ <objectgroup name="ladder2"/>
+ <objectgroup name="minifort"/>
+ <objectgroup name="bigfort">
+  <object id="393" x="4827.27" y="230.303" width="112.121" height="84.8485"/>
+  <object id="396" x="3361.3" y="320.121" width="93.9394" height="81.8182"/>
+  <object id="398" x="2417.33" y="308.242" width="96.9697" height="72.7273"/>
+  <object id="412" x="5455" y="305" width="120" height="92"/>
+  <object id="413" x="1216" y="224" width="80" height="76"/>
+  <object id="415" x="3880" y="323" width="96" height="84"/>
+ </objectgroup>
+ <objectgroup name="stand_man"/>
+ <objectgroup name="hide_man"/>
+ <objectgroup name="moveEnemy"/>
+ <objectgroup name="bridge_head"/>
+ <objectgroup name="bridge_body"/>
+ <objectgroup name="bridge_tail"/>
+ <objectgroup name="rewardM"/>
+ <objectgroup name="rewardF"/>
+ <objectgroup name="rewardS"/>
+ <objectgroup name="rewardFlyS"/>
+ <objectgroup name="rewardFlyF"/>
+ <objectgroup name="item_plane"/>
+ <objectgroup name="item_tank"/>
+ <objectgroup name="tank"/>
+ <objectgroup name="plane"/>
+ <objectgroup name="plane2"/>
+ <objectgroup name="tank2"/>
+ <objectgroup name="tank_move"/>
+ <objectgroup name="plane_bomb">
+  <object id="400" x="249.455" y="106.909" width="93.9394" height="57.5758"/>
+  <object id="401" x="621.455" y="89.3333" width="96.9697" height="54.5455"/>
+  <object id="404" x="3652" y="136" width="88" height="56"/>
+  <object id="406" x="3952" y="132" width="120" height="56"/>
+  <object id="408" x="4324" y="136" width="116" height="56"/>
+ </objectgroup>
+ <objectgroup name="plane_bomb_back">
+  <object id="402" x="1844" y="109.091" width="113.575" height="66.6667"/>
+  <object id="403" x="2060.61" y="109.091" width="123.39" height="69.697"/>
+  <object id="414" x="2244" y="108" width="124" height="60"/>
+  <object id="405" x="3796" y="136" width="96" height="52"/>
+  <object id="407" x="4144" y="124" width="104" height="56"/>
+ </objectgroup>
+</map>

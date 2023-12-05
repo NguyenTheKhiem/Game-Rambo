@@ -1,0 +1,45 @@
+{
+    "android": {
+        "GoogleAnalytics": {
+            "trackingCode": "UA-51538068-19"
+        }, 
+        "AdMob": {
+            "test": false, 
+            "ads": {
+                "gameover": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-4291038556071828/6542706995"
+                }, 
+                "home": {
+                    "width": 0, 
+                    "type": "banner", 
+                    "id": "ca-app-pub-4291038556071828/5065973795", 
+                    "alignment": "top", 
+                    "height": 0
+                }
+            }
+        }
+    }, 
+    "ios": {
+        "GoogleAnalytics": {
+            "track_init_screen": false, 
+            "trackingCode": "UA-51538068-19"
+        }, 
+        "AdMob": {
+            "test": false, 
+            "ads": {
+                "gameover": {
+                    "type": "interstitial", 
+                    "id": "ca-app-pub-4291038556071828/6542706995"
+                }, 
+                "home": {
+                    "width": 0, 
+                    "type": "banner", 
+                    "id": "ca-app-pub-4291038556071828/5065973795", 
+                    "alignment": "top", 
+                    "height": 0
+                }
+            }
+        }
+    }
+}

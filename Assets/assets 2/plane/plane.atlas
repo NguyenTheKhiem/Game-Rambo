@@ -1,0 +1,167 @@
+
+plane.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgun
+  rotate: false
+  xy: 90, 5
+  size: 41, 10
+  orig: 41, 10
+  offset: 0, 0
+  index: -1
+bgun2
+  rotate: false
+  xy: 133, 5
+  size: 41, 10
+  orig: 41, 10
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 17
+  size: 225, 43
+  orig: 225, 43
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 229, 17
+  size: 225, 43
+  orig: 225, 43
+  offset: 0, 0
+  index: -1
+bshoot-1
+  rotate: false
+  xy: 936, 4
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+bshoot-2
+  rotate: false
+  xy: 957, 9
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+bwing
+  rotate: false
+  xy: 2, 2
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+bwing2
+  rotate: false
+  xy: 46, 2
+  size: 42, 13
+  orig: 42, 13
+  offset: 0, 0
+  index: -1
+cabin
+  rotate: false
+  xy: 744, 34
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+cabin2
+  rotate: false
+  xy: 744, 6
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+dwing
+  rotate: true
+  xy: 890, 25
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+dwing2
+  rotate: true
+  xy: 922, 25
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+fgun
+  rotate: false
+  xy: 176, 7
+  size: 44, 8
+  orig: 44, 8
+  offset: 0, 0
+  index: -1
+fgun2
+  rotate: false
+  xy: 222, 7
+  size: 44, 8
+  orig: 44, 8
+  offset: 0, 0
+  index: -1
+fshoot-1
+  rotate: false
+  xy: 890, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+fshoot-2
+  rotate: false
+  xy: 913, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+fwing
+  rotate: false
+  xy: 456, 17
+  size: 87, 43
+  orig: 87, 43
+  offset: 0, 0
+  index: -1
+fwing2
+  rotate: false
+  xy: 545, 17
+  size: 87, 43
+  orig: 87, 43
+  offset: 0, 0
+  index: -1
+smoke-1
+  rotate: true
+  xy: 954, 30
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+smoke-2
+  rotate: true
+  xy: 698, 15
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+smoke-3
+  rotate: false
+  xy: 634, 2
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+uwing
+  rotate: false
+  xy: 810, 19
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+uwing2
+  rotate: false
+  xy: 850, 19
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,75 @@
+
+autogun.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hatch
+  rotate: false
+  xy: 124, 49
+  size: 128, 11
+  orig: 128, 11
+  offset: 0, 0
+  index: -1
+rifle
+  rotate: false
+  xy: 2, 24
+  size: 120, 36
+  orig: 120, 36
+  offset: 0, 0
+  index: -1
+shoot
+  rotate: true
+  xy: 365, 26
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+shoot-2
+  rotate: true
+  xy: 412, 26
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+smoke-1
+  rotate: false
+  xy: 164, 19
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+smoke-2
+  rotate: false
+  xy: 318, 16
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+smoke-3
+  rotate: false
+  xy: 254, 2
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+tripod-1
+  rotate: true
+  xy: 318, 7
+  size: 7, 40
+  orig: 7, 40
+  offset: 0, 0
+  index: -1
+tripod-2
+  rotate: false
+  xy: 459, 22
+  size: 38, 38
+  orig: 39, 39
+  offset: 0, 1
+  index: -1
+tripod-3
+  rotate: false
+  xy: 124, 9
+  size: 38, 38
+  orig: 39, 39
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,40 @@
+
+enemy-gun.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bot
+  rotate: false
+  xy: 129, 36
+  size: 93, 25
+  orig: 93, 25
+  offset: 0, 0
+  index: -1
+smoke-1
+  rotate: false
+  xy: 129, 6
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+smoke-2
+  rotate: false
+  xy: 224, 17
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+smoke-3
+  rotate: false
+  xy: 65, 3
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 2, 2
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="90" height="7" tilewidth="64" tileheight="64" nextobjectid="361">
+ <tileset firstgid="1" name="background" tilewidth="64" tileheight="64" tilecount="84" columns="12">
+  <image source="background.png" width="800" height="480"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="90" height="7">
+  <data encoding="base64" compression="zlib">
+   eJztwQEJAAAAAqD6f7ofoTYAADwYE7AAAg==
+  </data>
+ </layer>
+ <objectgroup name="floor">
+  <object id="322" x="0" y="424.242" width="5752" height="18.1818"/>
+ </objectgroup>
+ <objectgroup name="ladder"/>
+ <objectgroup name="ladder2"/>
+ <objectgroup name="minifort">
+  <object id="336" x="2636" y="352" width="92" height="52"/>
+  <object id="337" x="3972" y="352" width="92" height="48"/>
+ </objectgroup>
+ <objectgroup name="bigfort">
+  <object id="338" x="3324" y="344" width="96" height="60"/>
+  <object id="340" x="5424" y="340" width="76" height="56"/>
+  <object id="358" x="2999.15" y="348" width="100" height="52"/>
+ </objectgroup>
+ <objectgroup name="stand_man"/>
+ <objectgroup name="hide_man"/>
+ <objectgroup name="moveEnemy"/>
+ <objectgroup name="bridge_head"/>
+ <objectgroup name="bridge_body"/>
+ <objectgroup name="bridge_tail"/>
+ <objectgroup name="rewardM"/>
+ <objectgroup name="rewardF"/>
+ <objectgroup name="rewardS"/>
+ <objectgroup name="rewardFlyS"/>
+ <objectgroup name="rewardFlyF"/>
+ <objectgroup name="item_plane"/>
+ <objectgroup name="item_tank"/>
+ <objectgroup name="tank">
+  <object id="359" x="980.939" y="368.091" width="93" height="46"/>
+  <object id="360" x="1176.24" y="375" width="116" height="37"/>
+ </objectgroup>
+ <objectgroup name="plane">
+  <object id="343" x="4152" y="92" width="96" height="52"/>
+  <object id="344" x="2940" y="92" width="92" height="52"/>
+  <object id="345" x="5481.82" y="113.455" width="108" height="64"/>
+  <object id="350" x="4773.21" y="112.242" width="124" height="52"/>
+  <object id="351" x="1784.73" y="174.061" width="84" height="52"/>
+  <object id="352" x="2236.73" y="250.909" width="84" height="56"/>
+  <object id="353" x="2271.27" y="95.7576" width="104" height="56"/>
+  <object id="356" x="1493.61" y="220.121" width="80" height="60"/>
+ </objectgroup>
+ <objectgroup name="plane2"/>
+ <objectgroup name="tank2">
+  <object id="333" x="1426" y="382" width="88" height="32"/>
+  <object id="334" x="1684" y="368" width="116" height="40"/>
+  <object id="335" x="1996" y="364" width="108" height="44"/>
+  <object id="341" x="3664" y="352" width="120" height="52"/>
+  <object id="342" x="4844" y="332" width="144" height="56"/>
+  <object id="346" x="4620" y="332" width="136" height="60"/>
+  <object id="347" x="4420" y="324" width="128" height="76"/>
+ </objectgroup>
+ <objectgroup name="item_helicopter">
+  <object id="332" x="228.182" y="363.939" width="46" height="45"/>
+ </objectgroup>
+ <objectgroup name="plane_bomb_back">
+  <object id="355" x="3508" y="96" width="128" height="48"/>
+ </objectgroup>
+ <objectgroup name="plane_bomb"/>
+</map>
